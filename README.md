@@ -1,5 +1,5 @@
 # GitHubActions-Flutter-Android-Build
-Exemplo de pipeline de build para Android utilizando um app Flutter.
+Exemplo de workflow do GitHub Actions em ambiente macOS para build de um app Flutter em Android.
 
 Aplicação utilizada como base:
 
