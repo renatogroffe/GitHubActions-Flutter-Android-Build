@@ -5,7 +5,6 @@ Aplicação utilizada como base:
 
 **https://github.com/renatogroffe/Flutter-AppContagemClicks**
 
-
 ---
 
 ## Atualizações em 25/02/2024
